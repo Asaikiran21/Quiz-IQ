@@ -1,6 +1,6 @@
 # QuizIQ
 
-A full-stack, role-based quiz application.
+QuizIQ is a full-stack assessment platform built with Java Spring Boot, PostgreSQL, React.js, and Vite. Educators create and manage quizzes with multi-step builders, while students enjoy a premium quiz interface with real-time progress tracking and instant results. Features JWT authentication, glassmorphism UI, and comprehensive performance analytics.
 
 ## Project Structure
 - `backend/`: Spring Boot application (Java 17, Maven)
